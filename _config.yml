@@ -1,17 +1,30 @@
-# 站点基本设置
-title: "Kevin's Personal Site"  # 网站标题
-description: "My personal portfolio and blog"  # 网站描述
-baseurl: ""  # 如果你的网站在子路径，否则留空
+# 站点设置
+title: "Kevin的个人世界"  # 你的网站标题
+description: "欢迎来到我的个人空间 | 分享技术、生活和思考"  # 网站描述
+baseurl: ""  # 保持为空
 url: "https://bbkevin.github.io"  # 你的网站地址
+github_username: bbkevin  # 你的GitHub用户名
 
 # 构建设置
-theme: minima  # 使用 Jekyll 默认主题
+theme: minima  # 这里要与你选择的主题名称一致
 
 # 作者信息
 author:
   name: "Kevin"
   email: "your-email@example.com"
+  description: "开发者 | 技术爱好者"
 
-# 其他插件和设置
+# 社交链接（Minima主题支持）
+twitter_username: your_twitter
+github_username:  bbkevin
+
+# 其他设置
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# 评论系统（可选）
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "your-disqus-shortname"
