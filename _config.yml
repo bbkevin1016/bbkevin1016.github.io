@@ -1,0 +1,17 @@
+# 站点基本设置
+title: "Kevin's Personal Site"  # 网站标题
+description: "My personal portfolio and blog"  # 网站描述
+baseurl: ""  # 如果你的网站在子路径，否则留空
+url: "https://bbkevin.github.io"  # 你的网站地址
+
+# 构建设置
+theme: minima  # 使用 Jekyll 默认主题
+
+# 作者信息
+author:
+  name: "Kevin"
+  email: "your-email@example.com"
+
+# 其他插件和设置
+plugins:
+  - jekyll-feed
