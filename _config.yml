@@ -1,6 +1,6 @@
 # 站点设置
-title: "Kevin的个人世界"  # 你的网站标题
-description: "欢迎来到我的个人空间 | 分享技术、生活和思考"  # 网站描述
+title: "胡金博 Hu Jinbo"  # 你的网站标题
+description: "欢迎来到我的主页 | 分享技术、生活和思考"  # 网站描述
 baseurl: ""  # 保持为空
 url: "https://bbkevin.github.io"  # 你的网站地址
 github_username: bbkevin  # 你的GitHub用户名
