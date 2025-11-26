@@ -7,7 +7,11 @@ github_username: bbkevin  # 你的GitHub用户名
 
 # 构建设置
 theme: minima  # 这里要与你选择的主题名称一致
-
+minima:
+  skin: dark  # auto, dark, classic
+  social_links:
+    twitter: your_twitter
+    github: your_github
 # 作者信息
 author:
   name: "Kevin"
